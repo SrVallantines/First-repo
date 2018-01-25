@@ -8,5 +8,8 @@ public class FirstClass {
         Scanner input = new Scanner(System.in);
         System.out.println("Input n= ");
 
+        int newVariables = new Scanner(System.in).nextInt();
+
+
     }
 }
